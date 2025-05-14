@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736351448 source:c:\users\asustuf2\downloads\codeblocks_practica\practica-test lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
